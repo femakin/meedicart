@@ -1,0 +1,71 @@
+.containerr{
+    background: linear-gradient(278.05deg, #3960C6 27.9%, #ACBDE7 78.8%), #3960C6;
+    max-width:100%;
+    /* margin-bottom:40px; */
+    margin-right: 0px;
+     height: 500px; 
+    padding-top: 10%;
+    
+}
+
+#headerTitle{
+    text-align: center;
+    font-family: 'open sans', sans-serif;
+    padding: 2rem 0;
+    margin: 0;
+    font-size: 2rem;
+  }
+
+  #loginform{
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 700px;
+    width: 30%;
+    height: 80%;
+    margin: 20px auto;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    background: #FFFFFF;
+box-shadow: 4px 8px 5px rgba(68, 67, 66, 0.3);
+border-radius: 15px;
+  }
+
+
+  .row{
+    display: block;
+    
+    
+  }
+  
+  .row input{
+    width: 50%;
+    box-sizing: border-box;
+      border: none;
+    font-size: 1.3rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1rem;
+    box-shadow: inset 0px -3px 0px 0px rgba(187,187,187,0.2);
+    transition: box-shadow 0.2s ease-in;
+  }
+
+  .row button{
+    cursor:pointer;
+    color:#444342;
+     padding:4px 22px; 
+    background: #FFFFFF;
+    outline-style: none;
+     width: 132px; 
+     border: 2px solid #FFBA0B;
+    box-sizing: border-box;
+    border-radius: 15px;
+  }
+
+  @media screen and (max-width: 750px) {
+
+#loginform{
+    
+    width: 90%;
+    
+}
+
+  }

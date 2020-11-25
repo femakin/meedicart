@@ -1,0 +1,103 @@
+  .navbar-custom {
+     max-width: 100%;
+     overflow-x: hidden;
+}    
+
+.ic
+    {
+        margin:9px;
+    }
+
+    .divider{
+        width:10px;
+        height:auto;
+        display:inline-block;
+    }
+
+    .navbar-logo{
+        color: #3960C6;
+        height: 70.81;
+        width: 362px;
+        font-family: 'Mulish', sans-serif;
+         font-weight: 700; 
+         font-style: normal;
+         font-size: 35px; 
+        line-height: 80.32px;
+        cursor: pointer;
+    }
+
+    .icon1{
+        
+    display:inline-block;
+    cursor:pointer;
+    color:#FFFFFF;
+    border-radius: 15px;
+     padding:4px 22px; 
+    background: #3960C6;
+    outline-style: none;
+     width: 132px; 
+    }
+    .icon1:hover{
+        background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+        background-color:#ccc2a6;
+
+    }
+    button:focus { outline: none; }
+
+    .icon-text{
+        font-family: 'Mulish', sans-serif;
+        font-style: normal;
+        font-size: 14px;
+        width: 800;
+        line-height: 17.57px;
+        color: #FFFFFF;
+        
+    }
+
+    a, a:hover, a:focus, a:active {
+        text-decoration: none;
+        
+   }
+
+   .icon2{
+    display:inline-block;
+    cursor:pointer;
+    color:#444342;
+     padding:4px 22px; 
+    background: #FFFFFF;
+    outline-style: none;
+     width: 132px; 
+     border: 2px solid #FFBA0B;
+    box-sizing: border-box;
+    border-radius: 15px;
+    
+   }
+
+   .icon-text2{
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;    
+    color: #444342;
+   }
+
+  .cart1{
+   
+    
+    height: 46.44px;
+    left: 1225px;
+    top: 43.94px;
+    color: #3960C6;
+    transform: matrix(0.99, -0.07, 0.12, 1, 0, 0);
+    
+  }
+  .cart2{
+    width: 50px;
+    height: 50px;
+    left: 1305px;
+    top: 43px;
+    color: #FFBA0B;
+  } 
+
+  
